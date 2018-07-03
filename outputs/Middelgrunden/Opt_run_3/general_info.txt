@@ -1,0 +1,6 @@
+Run num: 3
+Num of wts: 20
+Original obj: 105616.13
+Optimized obj: 108816.60
+Maximal evalutions: 1000
+Total cpu time: 60.753963291852415 second
